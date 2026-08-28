@@ -37,8 +37,7 @@
         <h2>Primeiro post</h2>
         <p>por: saymon</p>
         <p>Sejam bem-vindos ao meu blog sobre blox fruits! Aqui vou dar dicas de como utilizar itens acessorios espadas frutas e armas alem de outras coisas.</p>
+        
     </main>
 </body>
 </html>
-
-(link//sitehtml-bloxfruits/sistem)
