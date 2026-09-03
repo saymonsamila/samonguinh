@@ -36,8 +36,7 @@
         <img src="imagem-blox.png" alt="Logotipo do jogo Blox Fruits criado em pixel art. A palavra 'BLOX' aparece na parte superior em letras azuis com contorno preto, separada por uma fruta do diabo laranja com detalhes amarelos. A palavra 'FRUITS' está escrita logo abaixo em destaque, com gradiente do vermelho ao amarelo e contorno preto espesso. Fundo branco simples.">
         <h2>Primeiro post</h2>
         <p>por: saymon</p>
-        <p>Sejam bem-vindos ao meu blog sobre blox fruits! Aqui vou dar dicas de como utilizar itens acessorios espadas frutas e armas alem de outras coisas.</p>
-        
+        <p>Sejam bem-vindos ao meu blog sobre blox fruits! Aqui vou dar dicas de como utilizar itens acessorios espadas frutas e armas alem de outras coisas.</p>    
     </main>
 </body>
 </html>
